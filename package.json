@@ -1,0 +1,18 @@
+{
+  "name": "reacturn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "reacturn": "node index.js"
+  },
+  "script": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "inquirer": "^3.3.0"
+  }
+}
